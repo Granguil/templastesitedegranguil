@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-sitegranguil",
+  "version": "1.0.0",
+  "description": "Template pour les différentes parties du site de Granguil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Granguil",
+  "license": "ISC",
+  "dependencies": {
+    "button": "file:../../ModulesReact/button/button-1.0.0.tgz",
+    "card": "file:../../ModulesReact/card/card-1.0.0.tgz",
+    "connexion": "file:../../ModulesReact/connexion/connexion-1.1.0.tgz",
+    "explorer": "file:../../ModulesReact/explorer/explorer-0.0.2.tgz",
+    "fetchhelper": "file:../../ModulesReact/fetchhelper/fetchhelper-0.1.2.tgz",
+    "generalcss": "file:../../ModulesReact/generalcss/generalcss-1.0.1.tgz",
+    "header": "file:../../ModulesReact/header/header-1.0.0.tgz",
+    "navigation": "file:../../ModulesReact/navigation/navigation-1.0.0.tgz",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-scripts": "4.0.3",
+    "resource": "file:../../ModulesReact/resource/resource-0.1.0.tgz",
+    "toaster": "file:../../ModulesReact/toaster/toaster-1.0.1.tgz"
+  }
+}
